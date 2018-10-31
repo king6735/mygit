@@ -7,7 +7,7 @@ public class HH {
 		int i = 2;
 		
 		System.out.println(2);
-		System.out.println(2);
+		System.out.println(7);
 		System.out.println(3);
 		System.out.println(3);
 
